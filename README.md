@@ -70,5 +70,11 @@ O projeto trata-se de um C.R.U.D de usuários, onde é possível criar um usuár
 | `id`      | `string` | **Obrigatório**. O ID do usuário que você quer |
 
 
+## Aprendizados
+
+Aprendi a utilizar o framework Spring Boot para desenvolver uma API Rest com os principais endpoints: GET, PUT, POST, DELETE.
+
+Também foi de grande valia para aprender mais sobre tratamento de exceções em Java e validação dos dados enviados pelo usuário por meio da validação disponibilizada pelo Spring Boot (Bean Validation with Hibernate validator).
+
 
 
