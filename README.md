@@ -11,6 +11,30 @@ O projeto trata-se de um C.R.U.D de usuários, onde é possível criar um usuár
 
 **Database** MySQL
 
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/jpcchaves/usercrud-backend.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd usercrud-backend
+```
+
+Aguarde o Maven instalar as dependências
+
+Inicie o servidor (se estiver utilizando o IntelliJ, utilize o comando abaixo. Caso não, busque a opção Run Application da sua IDE de preferência)
+
+```bash
+  CTRL + SHIFT + F10
+```
+
+
+
 
 ## Documentação da API
 
